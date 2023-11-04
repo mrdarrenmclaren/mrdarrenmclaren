@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrdarrenmclaren
 - 👀 I’m interested in Robotic Process Automation and Microsoft Power Platform
-- 🌱 I’m currently learning CS50x, Microsoft Power Platform and UiPath RPA.
+- 🌱 I’m currently learning CS50x, Microsoft Power Platform.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
